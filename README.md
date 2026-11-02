@@ -4,10 +4,10 @@ This repository only holds the downloadable program for Stage Rotation (Sugar Sh
 The app checks here for new versions. A manager installs them from
 **Settings → Updates** (or the yellow "Update ready" banner) on the DJ screen.
 
-Each release has two files:
+Files:
 
-- `StageRotation.exe` — the program
-- `StageRotation.exe.sha256` — its checksum; the app refuses a download that doesn't match
+- `StageRotation.exe` — the newest program
+- `latest.json` — its version, what changed, and its SHA-256 checksum (the app refuses a download that doesn't match)
 
-To install by hand: download `StageRotation.exe` from the latest release and replace the
-old one in its folder (for example `C:\StageRotation`) while the app is shut down.
+To install by hand: [download StageRotation.exe](https://github.com/fivealarmtech/rotation-releases/raw/main/StageRotation.exe)
+and replace the old one in its folder (for example `C:\StageRotation`) while the app is shut down.
