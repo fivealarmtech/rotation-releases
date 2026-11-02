@@ -2,5 +2,5 @@
   "version": "1.1.0",
   "notes": "Feature dances are their own turn in the rotation, dressing-room highlights, and updates from GitHub.\n\n- Feature dances (Bachelor, Birthday, Stage) are now their own item in the rotation. They take the Main stage for their turn, Diamond and VIP hold still, and the NEXT after the dance picks up where the rotation left off.\n- Move a feature dance with \u25b2 \u25bc or drag it in the Main list.\n- Dressing-room screen: girls on a feature dance are highlighted in pink everywhere, with a big GET READY banner the turn before, and they flash while it happens.\n- Specials (2 FOR 1, T-shirt, Hat) show as a bold gold tag on the girl's row.\n- New: Settings \u2192 Updates. A manager can install new versions with one button.",
   "exe": "StageRotation.exe",
-  "sha256": "48afafc4275e7392a41250559103dd3aeed17778f316a1b442e1a6ce403b3a4c"
+  "sha256": "53439a85d965909cffd7d0aa7d4ee5e21bbd7a8e59a41df75fd3a5bd1d8cf72a"
 }
