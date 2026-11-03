@@ -1,6 +1,6 @@
 {
-  "version": "1.3.4",
-  "notes": "iPad connection help.\n\n- Settings > iPads now shows whether Windows Firewall is letting the iPads in. If it is blocking them, press Fix it and click Yes when Windows asks.\n- The iPad address shown is the right network first (virtual or VPN adapters are listed last).\n- Includes 1.3.3: every name fits on the dressing-room screen and Diamond is a small strip.",
+  "version": "1.3.5",
+  "notes": "iPads and safer updates.\n\n- The DJ screen shows how many iPads are connected.\n- Windows in Parallels on a Mac: Settings > iPads shows the address to use through the Mac relay, or how to start the relay if it isn't running.\n- From now on, if a new version doesn't start properly, Stage Rotation puts the previous version back by itself and skips that version.",
   "exe": "StageRotation.exe",
-  "sha256": "1b46bf22c1eb8454ac77b875b2a64498a67428ef1a690a018cb9740b96500e67"
+  "sha256": "b39b9c05e4432337331a666e6a9dbe7ee22cd41d1fb0c2a813421ee91efd8836"
 }
