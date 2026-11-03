@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "notes": "Stage Rotation now opens in its own windows instead of Microsoft Edge.\n\n- The DJ screen, dressing-room screen and Dance Counter are app windows with the Stage Rotation name and icon. The old Edge windows close by themselves after the update.\n- Closing the DJ window now asks whether to shut the app down.\n- If the app windows can't start on this PC, it goes back to Edge windows by itself. Settings > This computer > \"Screens open in\" lets you choose.",
+  "version": "1.3.1",
+  "notes": "Stage Rotation can now be installed like a normal Windows program.\n\n- Download StageRotationSetup.exe from github.com/fivealarmtech/rotation-releases and run it once: Start menu, desktop shortcut, and Uninstall in Windows Settings > Apps. It moves the app out of its old folder; everything carries over.\n- Includes 1.3: the screens open in Stage Rotation's own windows instead of Microsoft Edge.",
   "exe": "StageRotation.exe",
-  "sha256": "26e0c94d849030b7c53699832b9f3f1b3dee14dcf802116b939bb890e57e379a"
+  "sha256": "9ca82093fd71af296c04036f8db1979cf1fb58fd4cbf2949a1ed35c74e4eb4f8"
 }
