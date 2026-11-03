@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "notes": "House Mom role for iPads.\n\n- New staff role: House Mom. She can add girls to the rotation and roster, set arrival times, edit girl info, and take girls off / put them back on rotation. No counters, champagne timers, house fees or dollar amounts on her screen.\n- Add her in Settings > Staff PINs.",
+  "version": "1.3.0",
+  "notes": "Stage Rotation now opens in its own windows instead of Microsoft Edge.\n\n- The DJ screen, dressing-room screen and Dance Counter are app windows with the Stage Rotation name and icon. The old Edge windows close by themselves after the update.\n- Closing the DJ window now asks whether to shut the app down.\n- If the app windows can't start on this PC, it goes back to Edge windows by itself. Settings > This computer > \"Screens open in\" lets you choose.",
   "exe": "StageRotation.exe",
-  "sha256": "4b29f0ff1e99cf6d937479c2acd725400e59e9745dbe4748d42bac6889606a77"
+  "sha256": "26e0c94d849030b7c53699832b9f3f1b3dee14dcf802116b939bb890e57e379a"
 }
