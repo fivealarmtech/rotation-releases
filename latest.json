@@ -1,6 +1,6 @@
 {
-  "version": "1.3.2",
-  "notes": "Fixes and safety improvements from a full code review.\n\n- Dressing-room screen stuck on top of the DJ screen? Press Esc on it, or move the mouse over it and press the red Close button. It also moves to the TV by itself when the TV is turned on.\n- The screens no longer show a false red \"Connecting\" bar when nothing has changed for a minute.\n- The girl on stage can't be moved or dragged by accident.\n- Tonight's rotation and the staff PINs survive a power cut or a damaged file.\n- After 5 wrong PINs an iPad has to wait. Other websites can't control the app.\n- The NEXT key / foot pedal keeps trying if another program briefly has it, and the DJ screen shows a red warning if it isn't working.",
+  "version": "1.3.3",
+  "notes": "Dressing-room screen: every name always shows.\n\n- Diamond (and VIP when it is the only pole) is now a small strip at the top, so Main gets almost the whole screen.\n- No more \"+ more\": the UP NEXT lists size themselves so every name fits.\n- Removed the Windows features that made Microsoft Defender suspicious of the app (hidden PowerShell and command windows).",
   "exe": "StageRotation.exe",
-  "sha256": "ec0d78d6f9acbc6aff9e1593b5cc6270741efe3fd14dc9843ef57ef1f86128a0"
+  "sha256": "c8fe69b4b2b4ec4c39388c5ce82243178c18ce9aa46d2583cc4278c843e7b78f"
 }
