@@ -23,3 +23,15 @@ Files:
 - `StageRotationSetup.exe` — the installer (includes the newest program)
 - `StageRotation.exe` — the newest program, used by the in-app updater
 - `latest.json` — its version, what changed, and its SHA-256 checksum (the app refuses a download that doesn't match)
+
+## Windows in Parallels on a Mac (iPads)
+
+Parallels' normal "Shared Network" hides Windows behind the Mac, so iPads can't reach
+Stage Rotation. Run the relay on the Mac: open **Terminal** and paste this one line:
+
+```
+curl -fL -o ~/StageRotationRelay https://github.com/fivealarmtech/rotation-releases/raw/main/mac/StageRotationRelay && chmod +x ~/StageRotationRelay && ~/StageRotationRelay
+```
+
+It finds Stage Rotation in Windows by itself and prints the address for the iPads (the Mac's
+address). Keep the window open. Next time, double-click **Stage Rotation Relay** on the Desktop.
