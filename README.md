@@ -34,4 +34,9 @@ curl -fL -o ~/StageRotationRelay https://github.com/fivealarmtech/rotation-relea
 ```
 
 It finds Stage Rotation in Windows by itself and prints the address for the iPads (the Mac's
-address). Keep the window open. Next time, double-click **Stage Rotation Relay** on the Desktop.
+address). The first time, it asks whether to start by itself whenever the Mac starts (in the
+background, no window to keep open). Otherwise keep the window open, and next time double-click
+**Stage Rotation Relay** on the Desktop. Stage Rotation's Settings > iPads shows the address too.
+
+To update the relay, paste the same line again. Other commands:
+`~/StageRotationRelay --status`, `~/StageRotationRelay --autostart on|off`.
