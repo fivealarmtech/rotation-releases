@@ -1,6 +1,6 @@
 {
-  "version": "1.3.7",
-  "notes": "Fixes found by a new stress test.\n\n- A feature dance booked before any girls were on the rotation could be skipped at START. It now waits for its turn.\n- Removing a girl from tonight's list also takes her off any feature dance she was on.\n- START does nothing until there are girls on the rotation (it says so).",
+  "version": "1.3.8",
+  "notes": "Champagne rooms.\n\n- When starting a champagne timer you can tap the room on the floor plan (optional). Rooms 1 and 4 hold two girls, 2 and 3 hold one; a full room can't be picked.\n- The Champagne tab on the iPads shows the rooms with who is in each and the time left. Room... moves a girl to another room.\n- When a girl's time is up, starting someone new in her room stops her timer.\n- The room shows on the DJ screen, the alerts, the night report and the Excel download.\n- Change the rooms in Settings > House fees & champagne.",
   "exe": "StageRotation.exe",
-  "sha256": "cf9bcb5f5eb0d9efa61c82e1c769ef1037600d291827a6ea140396998b2711ad"
+  "sha256": "aa4c4d21d9ad19bd1bfd3677f585949ba6a7b59ab78122fbaa4c43cefc2dc3ca"
 }
