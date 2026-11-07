@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "notes": "Add several girls at once.\n\n- + ADD GIRLS on the DJ screen and the iPads: tap every girl who is here (a number shows the order), type any new girls into the same list, then press Add. They go to the bottom of Main in that order.\n- One UNDO takes them all back out.\n- Fix: UNDO no longer brings back a girl who was deleted from the roster after being removed from tonight's list.",
+  "version": "1.5.0",
+  "notes": "Breaks, a Manager tab and the Dance Counter role.\n\n- STOP ALL STAGES (next to NEXT): every stage holds for a break; RESUME or NEXT puts the same girls back up and the set timer carries on.\n- Break at the end of the rotation (turn it on for the night under + ADD GIRLS): the stages stop by themselves when everyone has had her turn.\n- Manager settings have their own Manager tab (DJ screen and iPads), hidden until a manager unlocks.\n- Dance Counter role: no house fees or report. The Dance Counter button on the DJ screen only shows for a manager.\n- The set timer can also flash; the Info button is gone from the iPads; the Sugar Shack logo on the screens.",
   "exe": "StageRotation.exe",
-  "sha256": "df5e3a02f69122e3dc84fc76f8cfe53f2f9fb458baa42e5a4119fb35de322c8b"
+  "sha256": "d9e20d0a9d1410890bdc40617da9a19f493ed8c32322e4aa47c22777d5d99a6a"
 }
