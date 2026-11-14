@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "notes": "LAST CALL.\n\n- \ud83d\udd14 LAST (next to STOP): last call now, at a time (2:00 AM), or at a spot in the rotation.\n- When it comes, LAST CALL flashes on every screen. The girl on stage finishes, the poles go off, the next 2 on Main are the last dancers, then a 2 FOR 1 with all girls on the floor, and the NEXT after that ends the night.\n- The dressing room and iPads show it ahead of time with who the last dancers are.",
+  "version": "1.7.0",
+  "notes": "Last call badge, narrow DJ screen, mouse kept off the dressing-room TV.\n\n- Last call is no longer its own line in the rotation: the last dancers wear a 🔔 LAST CALL 1/2, 2/2 badge, and one NEXT puts the first of them on. Also in a girl's ⋯ menu: \"Last call starts with her\".\n- The DJ screen can be made narrow to share the monitor with the lighting software without losing names or buttons.\n- The mouse stays off the dressing-room monitor (hold Ctrl to cross). Manager > Dressing-room screen to turn it off.\n- VIP as the only pole: the dressing room shows the whole VIP list.",
   "exe": "StageRotation.exe",
-  "sha256": "6dcfba3bcf09692aa749ed89663abd3e954cae94e1902ddca8bdce963f5f83b9"
+  "sha256": "6f6fae8250c55d2f6bd874733cdb8e21f3fe1cbff75dad17c7aa99cd230c8c0d"
 }
