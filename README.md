@@ -2,6 +2,8 @@
 
 This repository holds the downloadable program for Stage Rotation (Sugar Shack).
 
+**📖 [Staff manual](manual/README.md)**: how to use Stage Rotation, for every job (DJ, House Mom, Dance Counters, Floor Hosts, Managers, Admin).
+
 ## Install
 
 [Download StageRotationSetup.exe](https://github.com/fivealarmtech/rotation-releases/raw/main/StageRotationSetup.exe)
@@ -14,8 +16,9 @@ click **More info → Run anyway**.
 
 ## Updates
 
-The installed app checks this repository for new versions. A manager installs them from
-**Settings → Updates** (or the yellow "Update ready" banner) on the DJ screen. Nothing
+The installed app checks this repository for new versions. They're installed from
+**Settings → Updates** (or the yellow "Update ready" banner) on the DJ screen: before the
+night starts by anyone at the DJ computer, after START with an Admin PIN. Nothing
 installs by itself.
 
 Files:
