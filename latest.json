@@ -1,6 +1,6 @@
 {
-  "version": "1.8.1",
-  "notes": "Permissions, notes on girls, late fee rules, report templates, running backup and more.\n- Permissions: Admin tab > Permissions, what each role can see and do, plus one person's exceptions.\n- Champagne: the House Mom just takes her off; the split and money only for people allowed to see them.\n- Notes / restrictions on girls (NO VIP etc.) and Go home early.\n- House fees: done ones marked with a check, working one out again never adds a second fee; late fee rules; who still owes.\n- Reports: Who counted what, and saved report templates.\n- Song count under the set timer (Admin option); HELP explains sets and launch songs.\n- Running backup to a folder (OneDrive). Auditions anywhere. Tighter iPad list.\n- The version number on every screen.",
+  "version": "1.8.1.1",
+  "notes": "1.8.1.1: the HELP pictures show the new buttons.\nPermissions, notes on girls, late fee rules, report templates, running backup and more.\n- Permissions: Admin tab > Permissions, what each role can see and do, plus one person's exceptions.\n- Champagne: the House Mom just takes her off; the split and money only for people allowed to see them.\n- Notes / restrictions on girls (NO VIP etc.) and Go home early.\n- House fees: done ones marked with a check, working one out again never adds a second fee; late fee rules; who still owes.\n- Reports: Who counted what, and saved report templates.\n- Song count under the set timer (Admin option); HELP explains sets and launch songs.\n- Running backup to a folder (OneDrive). Auditions anywhere. Tighter iPad list.\n- The version number on every screen.",
   "exe": "StageRotation.exe",
-  "sha256": "89a05549236b320da468e07e9e7f519284c042beac8f522d9638a8bc61e49e2a"
+  "sha256": "e5c7d4f970eb9aa57a269b88afbbd520db7d251b4e0963fe6af146d7d4d94e39"
 }
