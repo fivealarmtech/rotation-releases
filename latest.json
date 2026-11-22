@@ -1,6 +1,6 @@
 {
-  "version": "1.7.4",
-  "notes": "iPads reconnect by themselves, and taking a girl off a pole.\n\n- iPads (and every screen) catch up by themselves after being locked or asleep: as soon as they're unlocked, or on their own within about 20 seconds. A \"Tap to reconnect\" button shows on the red bar meanwhile.\n- The pole card on the DJ screen has \"Take off…\" and ⋯ next to the girl. The pole goes DARK until NEXT, then the next girl goes up for a whole set.\n- With both poles on, the next VIP girl no longer goes up in the middle of the set (she used to lose most of her turn).",
+  "version": "1.8.1",
+  "notes": "Permissions, notes on girls, late fee rules, report templates, running backup and more.\n- Permissions: Admin tab > Permissions, what each role can see and do, plus one person's exceptions.\n- Champagne: the House Mom just takes her off; the split and money only for people allowed to see them.\n- Notes / restrictions on girls (NO VIP etc.) and Go home early.\n- House fees: done ones marked with a check, working one out again never adds a second fee; late fee rules; who still owes.\n- Reports: Who counted what, and saved report templates.\n- Song count under the set timer (Admin option); HELP explains sets and launch songs.\n- Running backup to a folder (OneDrive). Auditions anywhere. Tighter iPad list.\n- The version number on every screen.",
   "exe": "StageRotation.exe",
-  "sha256": "e0811bc7753c968b6d9ae93be96b4a7365b2803065378531173381d9a11e3b75"
+  "sha256": "89a05549236b320da468e07e9e7f519284c042beac8f522d9638a8bc61e49e2a"
 }
