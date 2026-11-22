@@ -1,0 +1,6 @@
+{
+  "version": "1.8.0-beta.1",
+  "notes": "TEST VERSION of 1.8. For testing only, not for a club night yet.\n- Roles: Admin and Floor Host, and more than one role per person.\n- Names in ALL CAPS.\n- Auditions (+ AUDITION): one set, then she's gone.\n- Champagne: 30 min to 6 hours, the club share and her champagne fee fill in by themselves.\n- CHAMPAGNE from the rotation opens the form; DOING 5 adds a VIP suite.\n- FILL IN ALL HOUSE FEES button.\n- Messages to the DJ from the iPads.\n- \"Are you sure?\" before poles, STOP and LAST CALL on the iPads.",
+  "exe": "beta/StageRotation.exe",
+  "sha256": "b28c8cf45dbb818f0538591247ccaa28b2245824cda8cb1f5569155831e5b252"
+}
