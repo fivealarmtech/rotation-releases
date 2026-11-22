@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "notes": "Last call badge, narrow DJ screen, mouse kept off the dressing-room TV.\n\n- Last call is no longer its own line in the rotation: the last dancers wear a 🔔 LAST CALL 1/2, 2/2 badge, and one NEXT puts the first of them on. Also in a girl's ⋯ menu: \"Last call starts with her\".\n- The DJ screen can be made narrow to share the monitor with the lighting software without losing names or buttons.\n- The mouse stays off the dressing-room monitor (hold Ctrl to cross). Manager > Dressing-room screen to turn it off.\n- VIP as the only pole: the dressing room shows the whole VIP list.",
+  "version": "1.7.1",
+  "notes": "Print the paper dance sheet.\n\n- Manager tab > \"Print dance sheet\": the Dancers Sheet with tonight's girls in the numbered boxes, in rotation order (girls off the rotation after them), with their time in, the date and the day. 25 to a page; more girls carry on onto a second page.\n- From an iPad or phone it opens in a new tab: tap Print there.",
   "exe": "StageRotation.exe",
-  "sha256": "6f6fae8250c55d2f6bd874733cdb8e21f3fe1cbff75dad17c7aa99cd230c8c0d"
+  "sha256": "1664308194c70b8f769ddb2c72c8d0f8aa40c9366da90e393c675bba09ac2c30"
 }
