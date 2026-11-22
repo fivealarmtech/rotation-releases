@@ -332,11 +332,20 @@ Mark a fee **PAID** when she pays. See [How the money works](#how-the-money-work
 
 ### Reports and history
 
-- **Report** tab on the iPad: tonight's money.
-- **History** tab on the DJ computer: any past night. **Money report** and **Download for Excel** need a manager PIN. The money report shows champagne split into the club's and the girls' shares.
-- Every night is also saved on the DJ computer in **Documents → Stage Rotation History**, as a report you can open and print and a file for Excel.
+**Money reports ask what goes on them.** On the DJ computer: **History** tab → pick the night → **Money report** (or **Download for Excel**). On an iPad: **Report** tab → **📄 Make a report…**.
 
-![The report](img/ipad-report.jpg)
+![What goes on the report?](img/report-pick.jpg)
+
+Pick one:
+
+- **Lap dances & house fee**: each girl's lap dances, lap dance fees and house fee (paid and unpaid).
+- **House fee & all fees**: each girl's house fee and every fee in it: base, late, lap dance, VIP suite and champagne fees, paid and unpaid.
+- **Full report**: everything, like before: all the money, champagne, house fees, off rotation, the rotation log and who did what.
+
+Or tick exactly what you want on it (arrival time, counts, champagne money, each fee). Then **Show report** or **Download for Excel**. Every report has a **TOTALS** line. To print, show it and press **Print** (on an iPad: Share → Print). Each computer and iPad remembers your last choice.
+
+- **Report** tab on the iPad also shows tonight's numbers at a glance.
+- Every night is also saved on the DJ computer in **Documents → Stage Rotation History** (the full report, and a file for Excel).
 
 ### Other manager things
 
@@ -372,7 +381,7 @@ Tick every job a person does. Someone with two jobs picks one when they sign in.
 | Role | Can do |
 |---|---|
 | **Admin** | Settings, prices, staff PINs and this computer. Plus everything a manager can do. |
-| **Manager** | Money reports, history, house fees, the dance sheet, champagne rooms, deleting, a new night. Plus everything a Dance Counter can do. |
+| **Manager** | Money reports (lap dances & house fee, all fees, or the full report), history, house fees, the dance sheet, champagne rooms, deleting, a new night. Plus everything a Dance Counter can do. |
 | **DJ** | The DJ screen. On an iPad: counts, house fees, moving girls, NEXT and UNDO. |
 | **Floor Host** | Lap dances, VIP suites, champagne, moving girls in the MAIN line, off / back on. No money. |
 | **Dance Counter** | Add girls, arrival times, lap dances, VIP suites, champagne, off / back on, profiles. No house fees. |
