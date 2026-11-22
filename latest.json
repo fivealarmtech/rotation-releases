@@ -1,6 +1,6 @@
 {
-  "version": "1.7.3",
-  "notes": "New girls go at the end of tonight's rotation, and a beta button.\n\n- A girl added after START now goes at the end of the rotation the night started with (right before the girl who started the night), not behind whoever is last at that moment.\n- The paper dance sheet prints in that same order.\n- The dressing-room TV's Up Next list reads top to bottom, then the next column.\n- Settings > Updates: Install beta and Back to published version, for testing new versions. Both need the beta PIN.",
+  "version": "1.7.4",
+  "notes": "iPads reconnect by themselves, and taking a girl off a pole.\n\n- iPads (and every screen) catch up by themselves after being locked or asleep: as soon as they're unlocked, or on their own within about 20 seconds. A \"Tap to reconnect\" button shows on the red bar meanwhile.\n- The pole card on the DJ screen has \"Take off…\" and ⋯ next to the girl. The pole goes DARK until NEXT, then the next girl goes up for a whole set.\n- With both poles on, the next VIP girl no longer goes up in the middle of the set (she used to lose most of her turn).",
   "exe": "StageRotation.exe",
-  "sha256": "bb0b0274076b9fdca7167daef2c43749424aa5b1373e43deca9db99f74830610"
+  "sha256": "e0811bc7753c968b6d9ae93be96b4a7365b2803065378531173381d9a11e3b75"
 }
