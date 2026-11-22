@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0-beta.3",
-  "notes": "TEST VERSION of 1.8 (beta 3). For testing only.\n- Money reports ask what goes on them: Lap dances & house fee, House fee & all fees, Full report, or tick your own. On screen, print or Excel.\n- HELP button on the DJ screen: a picture guide for the DJ.\n- iPads: the Girls tab is a list, about 10 girls per screen, for fast counting (Tiles still there); Help opens the staff manual.\n- Everything from beta 1: roles (Admin, Floor Host), ALL CAPS names, auditions, champagne split and fee, FILL IN ALL HOUSE FEES, messages to the DJ.",
+  "version": "1.8.1",
+  "notes": "Stage Rotation 1.8.1 (final build, on the beta channel first).\n- Permissions: Admin tab > Permissions, what each role can see and do, plus one person's exceptions.\n- Champagne: the House Mom just takes her off; the split and money only for people allowed to see them.\n- Notes / restrictions on girls (NO VIP etc.) and Go home early.\n- House fees: done ones marked with a check, working one out again never adds a second fee; late fee rules; who still owes.\n- Reports: Who counted what, and saved report templates.\n- Song count under the set timer (Admin option); HELP explains sets and launch songs.\n- Running backup to a folder (OneDrive). Auditions anywhere. Tighter iPad list.\n- The version number on every screen.",
   "exe": "beta/StageRotation.exe",
-  "sha256": "f1116009c5b856af589016b71fec7a124c8ce63acb47b2afc748b88c03152118"
+  "sha256": "89a05549236b320da468e07e9e7f519284c042beac8f522d9638a8bc61e49e2a"
 }
