@@ -1,6 +1,6 @@
 {
-  "version": "1.7.1",
-  "notes": "Print the paper dance sheet.\n\n- Manager tab > \"Print dance sheet\": the Dancers Sheet with tonight's girls in the numbered boxes, in rotation order (girls off the rotation after them), with their time in, the date and the day. 25 to a page; more girls carry on onto a second page.\n- From an iPad or phone it opens in a new tab: tap Print there.",
+  "version": "1.7.2",
+  "notes": "Dance sheet: time in is now optional.\n\n- The paper dance sheet no longer prints the girls' time in.\n- To print it, tick \"Print each girl's time in\" on the Manager tab, next to the Print dance sheet button.",
   "exe": "StageRotation.exe",
-  "sha256": "1664308194c70b8f769ddb2c72c8d0f8aa40c9366da90e393c675bba09ac2c30"
+  "sha256": "0320d60922b9468cc8640bbefe0bb29c2aa845c40e0f9fadf98fffc3e33788cd"
 }
