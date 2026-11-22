@@ -1,6 +1,6 @@
 {
-  "version": "1.7.2",
-  "notes": "Dance sheet: time in is now optional.\n\n- The paper dance sheet no longer prints the girls' time in.\n- To print it, tick \"Print each girl's time in\" on the Manager tab, next to the Print dance sheet button.",
+  "version": "1.7.3",
+  "notes": "New girls go at the end of tonight's rotation, and a beta button.\n\n- A girl added after START now goes at the end of the rotation the night started with (right before the girl who started the night), not behind whoever is last at that moment.\n- The paper dance sheet prints in that same order.\n- The dressing-room TV's Up Next list reads top to bottom, then the next column.\n- Settings > Updates: Install beta and Back to published version, for testing new versions. Both need the beta PIN.",
   "exe": "StageRotation.exe",
-  "sha256": "0320d60922b9468cc8640bbefe0bb29c2aa845c40e0f9fadf98fffc3e33788cd"
+  "sha256": "bb0b0274076b9fdca7167daef2c43749424aa5b1373e43deca9db99f74830610"
 }
