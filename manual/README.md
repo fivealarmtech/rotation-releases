@@ -1,6 +1,6 @@
 # Stage Rotation — Staff Manual
 
-**Sugar Shack · Lake Geneva, WI · for version 1.8.1**
+**Sugar Shack · Lake Geneva, WI · for version 1.9**
 
 Stage Rotation runs the stage rotation, the dance counts, champagne and house fees. This manual is for everyone who uses it. You don't have to read all of it: **find your job below** and read that part.
 
@@ -124,9 +124,11 @@ When her set is over, press **NEXT ▶**. The foot pedal (or the key under NEXT,
 
 ![NEXT](img/dj-next.jpg)
 
-**Song count.** If the Admin turned it on, the set timer says which song it is (**SONG 1 OF 2**, **LAUNCH**, **2 FOR 1 · SONG 1 OF 2**, **BUFFER**…). When the set should be over it says **SET OVER · press NEXT** and NEXT glows.
+**Song count.** If the Admin turned it on, the set timer says which song it is (**SONG 1 OF 2**, **LAUNCH**, **2 FOR 1 · SONG 1 OF 2**, **BUFFER**…). When the set should be over it says **SET OVER · press NEXT** and NEXT glows. The dressing-room TV and the iPads show the same song (just the song, no timer).
 
 ![The song count](img/dj-song-count.jpg)
+
+**With the Virtual DJ link** (the Admin sets it up) the song count follows the songs Virtual DJ really plays: it shows **♪**, and a small green **VDJ** line under the timer says what's playing. A launch song is recognized by its title and isn't counted as one of her songs; a song played after her set is the next girl's first song. If the Admin turned on **NEXT by itself**, NEXT is pressed for you when her last song is over and a new song starts (never during a break or last call). A red **VDJ not connected** line means Virtual DJ isn't answering: the count goes back to the clock until it does.
 
 ### Oops! UNDO
 
@@ -147,7 +149,7 @@ Press the **⋯** next to her name, then why she's coming off:
 
 The same menu has **⚠ Notes** (restrictions like **NO VIP**, see [Notes](#notes-and-going-home-early)) and **🏠 Wants to go home early** (she asked to leave early).
 
-She keeps her spot and everybody else moves up. To put her back, press **BACK ON ROTATION** next to her name under **OFF ROTATION** (right side).
+She keeps her spot and everybody else moves up. To put her back, press **BACK ON ROTATION** next to her name under **OFF ROTATION** (right side). If her spot is on stage right now or on deck, she skips this time and goes to the bottom of MAIN, so she isn't rushed up.
 
 ![BACK ON ROTATION](img/dj-back-on.jpg)
 
@@ -209,7 +211,7 @@ Press **🔔 LAST CALL** and pick **LAST CALL NOW** (after the girl on stage), *
 
 ### A message is flashing
 
-**MESSAGE FROM …**: read it and press **GOT IT** (their iPad shows that you saw it). To answer, press **REPLY**, type and send.
+**MESSAGE FROM …**: the DJ computer chimes and the message flashes. Read it and press **GOT IT** (their iPad shows that you saw it). To answer, press **REPLY**, type and send.
 
 ![A message](img/dj-message.jpg)
 
@@ -245,6 +247,9 @@ You sign in on an iPad as **House Mom**. You see the girls but not the money.
 ![The Rotation tab](img/ipad-rotation-mom.jpg)
 
 - **Tell the DJ something**: **💬 Message DJ**. See [Messages to the DJ](#messages-to-the-dj).
+- **Which song is on**: the line under the count at the top of the Girls tab says who's on MAIN and which song (**MAIN: AMBER · ♪ SONG 2 OF 2**; **SET OVER** in red), if the Admin turned the song count on.
+
+![Which song is on](img/ipad-song.jpg)
 - **Your name and PIN**: **My name & PIN** at the top. To change your PIN you need your current one.
 
 ---
@@ -266,6 +271,9 @@ You sign in as **Dance Counter**. The **Girls** tab is a list with one line per 
 - The number changes the moment you tap, and her line lights up green.
 - Tapped the wrong girl? Tap the small **−** on that girl's line: it takes one off (the line turns orange). **−** is grayed out at 0.
 - Several people can count at the same time on different iPads. Everyone's counts add up and show on every iPad.
+- **The Wi-Fi drops?** Keep counting. The numbers still go up, and an orange bar at the bottom says how many taps are saved on the iPad, waiting for the Wi-Fi. They go through by themselves when it's back (even if the iPad went to sleep). **Don't tap them again.** Each tap counts once, at the time you tapped it. Signing out with taps waiting asks first.
+
+![Taps waiting for the Wi-Fi](img/ipad-tapwait.jpg)
 - Type in **Search girls** to find a girl fast.
 - **⋯** on her line: arrival time, profile, notes, going home early, stop her champagne.
 - **⚠ NO VIP** (or any ⚠) on her name is a note from the House Mom or a manager. **🏠 ASKED TO GO** means she asked to go home early. See [Notes and going home early](#notes-and-going-home-early).
@@ -358,7 +366,7 @@ On an iPad: the **House Fees** tab.
 ![House fees](img/ipad-fees.jpg)
 
 1. **FILL IN ALL HOUSE FEES**: fills in a house fee for every girl here tonight in one go. New ones get tonight's base fee (and a late fee if the [late fee rules](#late-fee-rules) say so); ones not paid yet are brought up to date (lap dances, VIP suites, champagne fee). **Paid ones are left alone.**
-2. **+ CALCULATE FEE**: pick the girl. The ones already worked out have a **✓** with their amount (paid or not); the rest are first. Picking one with a ✓ asks first, then works hers out again: **it updates her fee, it never adds a second one.** If the late fee rules say she was late, the late fee is already filled in with the reason; change it or clear it if you want.
+2. **+ CALCULATE FEE**: pick the girl. The ones already worked out have a **✓** with their amount (paid or not); the rest are first. Picking one with a ✓ asks first, then works hers out again: **it updates her fee, it never adds a second one.** If the late fee rules say she was late, the late fee is already filled in with the reason ("arrived 8:05 PM: 2 hours late after 7:00 PM"); change it or clear it if you want. **+1 hour late** adds one hour's late fee each tap (3 taps = 3 hours); **No late fee** clears it.
 
 ![Picking the girl](img/ipad-fee-pick.jpg)
 
@@ -368,7 +376,7 @@ Mark a fee **PAID** when she pays. See [How the money works](#how-the-money-work
 
 ### Late fee rules
 
-**Manager** tab → **Late fee rules**: **+ Add rule**, tap the nights, the time and the late fee, then **Save rules**. A girl who comes in after that time on those nights gets that late fee filled in when her house fee is worked out. It's a starting point, not automatic: it's still your call, and you can change or clear it on her fee.
+**Manager** tab → **Late fee rules**: **+ Add rule** (it starts at **7:00 PM**, every night), tap the nights if it's only some nights, set the time and the late fee **per hour**, then **Save rules**. A girl who comes in after that time gets the late fee for **each hour she's late**, filled in when her house fee is worked out. Each started hour counts: with 7:00 PM, in at 7:20 is 1 hour, 8:05 is 2 hours. It's a starting point, not automatic: it's still your call, and you can change or clear it on her fee.
 
 ![Late fee rules](img/mgr-late-rules.jpg)
 
@@ -386,7 +394,9 @@ Pick one:
 
 - **Who counted what**: every person's lap dance and VIP suite taps, girl by girl: how many they added, took back (−), and the total.
 
-Or tick exactly what you want on it (arrival time, counts, champagne money, each fee). Then **Show report** or **Download for Excel**.
+Or tick exactly what you want on it (arrival time, counts, champagne money, each fee, and **Real name** under Girl if you need her real name on it). Then **Show report** or **Download for Excel**.
+
+**Which nights?** At the top: **Tonight**, **This week**, **Last week**, **This month**, **Last month**, or pick the dates. A week or month report is per girl (with how many nights she worked) or per night, with totals.
 
 **Report templates**: ticked what you want? Press **☆ Save as template…** and give it a name (like "Friday payout"). Next time just tap it under **Saved templates**; the report has its name at the top. **✎** renames it, **✕** deletes it. Every manager sees the same templates.
 
@@ -394,6 +404,7 @@ Or tick exactly what you want on it (arrival time, counts, champagne money, each
 
  Every report has a **TOTALS** line. To print, show it and press **Print** (on an iPad: Share → Print). Each computer and iPad remembers your last choice.
 
+- **A girl's history**: **⋯** on her line → **History** (on the DJ computer: the roster's **History** button). Nights worked and when she usually comes in, her lap dance, VIP and champagne averages and best nights, house fees (paid and still owed), notes and go-home requests, for the last 30 or 90 days or a year.
 - **Report** tab on the iPad also shows tonight's numbers at a glance.
 - Every night is also saved on the DJ computer in **Documents → Stage Rotation History** (the full report, and a file for Excel).
 
@@ -464,7 +475,7 @@ A PIN is 4 to 8 digits and no two people can have the same one. After 5 wrong PI
 
 ![House fees and champagne prices](img/admin-fees.jpg)
 
-- **Per lap dance**, **per VIP suite**, **default late fee**.
+- **Per lap dance**, **per VIP suite**, **late fee per hour** (what **+1 hour late** adds each tap).
 - **Champagne**: the base price per half hour (the least a half hour can sell for), what the club takes per half hour, the champagne fee % and the usual length. The example under it shows what these numbers do.
 - **Base house fee by night**: a different base fee for each day of the week.
 
@@ -472,7 +483,7 @@ A PIN is 4 to 8 digits and no two people can have the same one. After 5 wrong PI
 
 ![One-tap messages](img/admin-messages.jpg)
 
-The ready-made messages staff can send the DJ with one tap. Change them, add more (up to 12) or remove them.
+The ready-made messages staff can send the DJ with one tap. Change them, add more (up to 12) or remove them. **The DJ computer makes a sound when a message comes in**: untick it to turn it off, **Play the sound** to try it. If the DJ computer's speakers go to the club's sound system, turn it off.
 
 ### iPads
 
@@ -482,12 +493,32 @@ The ready-made messages staff can send the DJ with one tap. Change them, add mor
 - **DJ and Manager PINs can control the stages from an iPad**: tick it if managers or a DJ on an iPad should be able to change the poles, STOP and last call.
 - The addresses to type on the iPads and iPhones are shown here. Give the DJ computer a fixed address in the router so they never change.
 
+### Always-on server
+
+On the DJ computer: **Admin** tab → **Always-on server** → **Turn on…**. Windows asks for an administrator's OK once. After that Stage Rotation's server runs on its own (a Windows service): it starts when the computer starts, starts again by itself if it ever stops, and **keeps going when the DJ screen is closed**, so the iPads and managers can always get in. The desktop icon opens just the screens (DJ screen, dressing-room TV, NEXT key); closing the DJ screen asks "Close the Stage Rotation screens?" and the iPads keep working. **Turn off…** puts it back the way it was. Updates still come the same way, and if a new version doesn't start, the previous one comes back by itself.
+
+![Always-on server](img/admin-service.jpg)
+
+### Virtual DJ link
+
+**Admin** tab → **Virtual DJ link**. It lets the song count follow the songs Virtual DJ really plays (see [NEXT](#next-every-set)).
+
+1. On the Mac with **Virtual DJ Pro**: **Settings → Extensions → Effects → Other**, install **Network Control**. In its settings pick a port (for example 8080) and a password, and make sure it's on. If the Mac asks whether Virtual DJ may accept incoming connections, click **Allow**.
+2. In the card: tick **Link to Virtual DJ**, type the Mac's address and the port (the Mac's address is in **System Settings → Wi-Fi → Details**; example: 192.168.1.50:8080) and the password.
+3. Press **Test**: it says what's playing, or what's wrong. Then **Save**.
+4. **Launch songs**: part of the title is enough, one per line. Each DJ can also have their own: **Staff PINs → Edit** (DJs) → **my launch songs**.
+5. **Press NEXT by itself**: only if you want it (off unless ticked).
+
+(It can also read Virtual DJ's **tracklist.txt** instead, but that's slower.)
+
+![Virtual DJ link](img/admin-vdj.jpg)
+
 ### The rest of the Admin tab
 
 - **Club & stages**: club name and stage names.
 - **Dressing-room screen**: which monitor and what it shows.
 - **NEXT key**: click the box, then press the foot pedal (or a key) to use it as NEXT.
-- **NEXT, set timer, breaks & last call**: also **the set timer counts songs** (the song count for the DJ, off unless you tick it) and how long a song is.
+- **NEXT, set timer, breaks & last call**: also **the set timer counts songs** (the song count for the DJ, the dressing-room TV and the iPads, off unless you tick it or use the Virtual DJ link) and how long a song is.
 - **This computer**: start Stage Rotation with Windows.
 - **Updates**: see [For Managers](#other-manager-things). Test (beta) versions need the beta PIN and are never installed by themselves; **Back to published version** undoes one.
 - **Running backup** (on the DJ computer): pick a folder and press **Turn on**. Within about 20 seconds of any change, tonight, the roster, staff, settings and every past night are copied there. **Use OneDrive** fills in a OneDrive folder so the cloud always has the latest. Sign-ins are never copied. **Keep that OneDrive folder private** (it has the staff list). **Back up now** copies right away.
@@ -513,7 +544,7 @@ The ready-made messages staff can send the DJ with one tap. Change them, add mor
 
 - The base fee depends on the day of the week.
 - **FILL IN ALL HOUSE FEES** fills these in for everyone; a fee already marked **PAID** is never changed.
-- A late fee comes from the [late fee rules](#late-fee-rules) or is typed in by hand. It can always be changed.
+- A late fee is per hour late: from the [late fee rules](#late-fee-rules), **+1 hour late**, or typed in by hand. It can always be changed.
 
 ---
 
@@ -533,7 +564,11 @@ The ready-made messages staff can send the DJ with one tap. Change them, add mor
 
 **An iPad shows the wrong numbers or nothing changes.** Tap **Tap to reconnect** if the red bar shows. Still wrong? Close Safari (or the home-screen app) and open it again; you stay signed in.
 
-**"Didn't save" on the Girls list.** The tap didn't reach the DJ computer (Wi-Fi). The number goes back to what's really saved. Tap again once the red bar is gone.
+**An orange bar says taps are waiting for the Wi-Fi.** They're saved on the iPad and go through by themselves when the Wi-Fi is back. Don't tap them again.
+
+**"Didn't save" on the Girls list.** The DJ computer turned that tap down (for example, she isn't on tonight's list, or the tap was from a night that's over). The number goes back to what's really saved.
+
+**The VDJ line on the DJ screen is red.** Virtual DJ isn't answering (closed, or the Mac is asleep). The song count uses the clock until it's back. A manager can press **Test** in Admin → Virtual DJ link to see why.
 
 **Wrong PIN, and now it says wait.** After 5 wrong PINs that iPad waits 30 seconds (longer if it keeps happening).
 
@@ -541,4 +576,4 @@ The ready-made messages staff can send the DJ with one tap. Change them, add mor
 
 ---
 
-*Stage Rotation 1.8.1 · This manual: [github.com/fivealarmtech/rotation-releases/blob/main/manual/README.md](https://github.com/fivealarmtech/rotation-releases/blob/main/manual/README.md)*
+*Stage Rotation 1.9 · This manual: [github.com/fivealarmtech/rotation-releases/blob/main/manual/README.md](https://github.com/fivealarmtech/rotation-releases/blob/main/manual/README.md)*

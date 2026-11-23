@@ -1,6 +1,6 @@
 {
-  "version": "1.8.1.1",
-  "notes": "1.8.1.1: the HELP pictures show the new buttons.\nPermissions, notes on girls, late fee rules, report templates, running backup and more.\n- Permissions: Admin tab > Permissions, what each role can see and do, plus one person's exceptions.\n- Champagne: the House Mom just takes her off; the split and money only for people allowed to see them.\n- Notes / restrictions on girls (NO VIP etc.) and Go home early.\n- House fees: done ones marked with a check, working one out again never adds a second fee; late fee rules; who still owes.\n- Reports: Who counted what, and saved report templates.\n- Song count under the set timer (Admin option); HELP explains sets and launch songs.\n- Running backup to a folder (OneDrive). Auditions anywhere. Tighter iPad list.\n- The version number on every screen.",
+  "version": "1.9.0-beta.1",
+  "notes": "1.9 beta 1: the always-on server, taps saved when the Wi-Fi drops, the Virtual DJ link and more.\n- CHECK THE LATE FEE RULES (Manager tab): the amount is now per hour, each started hour counts (7:00 PM: in at 7:20 = 1 hour, 8:05 = 2 hours).\n- House fee: +1 HOUR LATE adds an hour each tap.\n- Always-on server: Admin tab, on the DJ PC (a Windows service: the iPads keep working when the DJ screen is closed).\n- iPad taps are kept while the Wi-Fi is down and sent when it's back.\n- Virtual DJ link: the song count follows the real songs; launch songs per DJ; optional NEXT by itself.\n- Song 1 of 2 on the dressing-room screen and the iPads (no timer).\n- The DJ computer chimes for messages. BACK ON skips her turn if her spot is up next.\n- Week / month reports, a girl's history, real names on reports.",
   "exe": "beta/StageRotation.exe",
-  "sha256": "e5c7d4f970eb9aa57a269b88afbbd520db7d251b4e0963fe6af146d7d4d94e39"
+  "sha256": "049434c105496cc7468f0c9682ce3830b1345b680e8a73afaafc689559fafabb"
 }
