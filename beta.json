@@ -1,6 +1,6 @@
 {
-  "version": "1.9.0-beta.1",
-  "notes": "1.9 beta 1: the always-on server, taps saved when the Wi-Fi drops, the Virtual DJ link and more.\n- CHECK THE LATE FEE RULES (Manager tab): the amount is now per hour, each started hour counts (7:00 PM: in at 7:20 = 1 hour, 8:05 = 2 hours).\n- House fee: +1 HOUR LATE adds an hour each tap.\n- Always-on server: Admin tab, on the DJ PC (a Windows service: the iPads keep working when the DJ screen is closed).\n- iPad taps are kept while the Wi-Fi is down and sent when it's back.\n- Virtual DJ link: the song count follows the real songs; launch songs per DJ; optional NEXT by itself.\n- Song 1 of 2 on the dressing-room screen and the iPads (no timer).\n- The DJ computer chimes for messages. BACK ON skips her turn if her spot is up next.\n- Week / month reports, a girl's history, real names on reports.",
+  "version": "1.9.0-beta.2",
+  "notes": "1.9 beta 2: fixes from the first beta night.\n- The bar at the bottom of every iPad shows what ANY dance counter just did (tap it for the last 20), on every tab.\n- Girls after LAST CALL can be set for each night of the week (Settings).\n- The DJ screen no longer flashes for go-home-early requests (they stay on her profile). Every DJ notification makes a sound.\n- 💬 Message managers on the DJ screen: it flashes on the managers' iPads; they can reply.\n- Remove from tonight on the iPad (Take off… or ⋯) for a girl put on by mistake.\n- A manager sees everything about a girl on her profile: nights, notes, went home, and her log.\n- Champagne: FILL OUT LATER takes her off without starting the timer; FILL IN & START → START NOW starts it.\nAlso in 1.9: the always-on server, taps saved when the Wi-Fi drops, the Virtual DJ link, late fees per hour.",
   "exe": "beta/StageRotation.exe",
-  "sha256": "03535e11a961dbb70920efef333253ecd75345733286674589ba9998d9814006"
+  "sha256": "3bd9dce630f7408ebd85b034c9734ade4d2046e8fda34250c67ec2b663a1fb71"
 }
