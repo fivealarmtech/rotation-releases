@@ -1,6 +1,6 @@
 {
-  "version": "1.9.0",
-  "notes": "1.9: the always-on server, Virtual DJ, an Android app and the first beta night's fixes.\n- Always-on server (Admin tab): the iPads keep working when the DJ screen is closed.\n- Taps are saved on the iPad when the Wi-Fi drops and go through when it's back.\n- Virtual DJ link: song 1 / song 2 follows the real songs (pick the AutoMix deck); tap the label to correct it.\n- The bar at the bottom of the iPads shows what anyone just did. Remove from tonight on the iPad.\n- DJ: Message managers; every notification makes a sound; go-home requests no longer flash.\n- Champagne FILL OUT LATER: the timer starts when it's filled in (START NOW).\n- Managers: her whole history and log on her profile, auditions from the iPad, week / month reports, real names on reports.\n- Late fees per hour from 7 PM; girls after last call by night; BACK ON skips her turn if she's up.\n- Android app for phones and tablets (see the staff manual).",
+  "version": "1.9.1-beta.1",
+  "notes": "1.9.1 beta 1:\n- A girl added whose spot is on stage or on deck waits: JOINS NEXT ROTATION, and she goes in when the next rotation starts.\n- Champagne + TIME: sell more time on a running timer (iPad Champagne tab or the time-up banner).\n- Champagne payment Cash, Funny money or Combo: Combo has a cash box and a funny money box.\n- House fees show the time she came in (table and edit screen).\n- PAID / UNPAID on a house fee asks first.",
   "exe": "beta/StageRotation.exe",
-  "sha256": "a6797094451af9d93d3bb46079c5a258ad4686d01ee9ba9ddd5955b7d66c9aa0"
+  "sha256": "2898baac73380c130a6ab8a36cecf362a00cbc3bd987015231c7b815ea609ed1"
 }
