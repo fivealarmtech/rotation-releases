@@ -1,6 +1,6 @@
 {
-  "version": "1.9.1-beta.2",
-  "notes": "1.9.1 beta 2:\n- NOT READY: in + ADD GIRLS tap NOT READY for a girl who is here but still getting ready. Tap READY when she is: she goes in at the end of this rotation and her time in is then. After 20 minutes the DJ screen and the House Mom's iPad remind you.\n- A girl added whose spot is on stage or on deck waits: JOINS NEXT ROTATION.\n- Champagne + TIME, and payment Cash, Funny money or Combo (a cash box and a funny money box).\n- House fees show the time in; PAID / UNPAID asks first.",
+  "version": "1.9.1-beta.3",
+  "notes": "1.9.1 beta 3:\n- + TIME on champagne is another sale: its own price, payment and split, its own line and Edit; the timer just runs longer.\n- DJ screen: FIX SONG under the set timer (Virtual DJ or the clock), and AUTO NEXT: ON / PAUSED to pause it for tonight.\n- NOT READY girls keep two times: Time in (came in) and Ready (went in; the late fee goes by it).\n- Also in 1.9.1: NOT READY, joining at the next rotation, Combo payment, time in on house fees, PAID / UNPAID asks first.",
   "exe": "beta/StageRotation.exe",
-  "sha256": "bc31db67235431b120f6f1982049aa8c16cddd7fe7e3b0ad5f67ac7acd35f7d9"
+  "sha256": "75283de86654465fad4d21882597205e17af00ff39a0552ab5c8949b9270b401"
 }
