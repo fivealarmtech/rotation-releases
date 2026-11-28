@@ -1,6 +1,6 @@
 {
-  "version": "1.9.1-beta.6",
-  "notes": "1.9.1 beta 6:\n- UNDO is per person: your UNDO shows only your own changes and takes back your latest one, even after others changed things (theirs stay). An Admin's UNDO shows a list to pick any change from.\n- SKIP ONE ROTATION on every Take off pop-up: she sits out her next turn and goes back on by herself in her same spot for the next rotation.\n- Fix: undoing a NEXT no longer puts in a girl who was waiting to join at the next rotation.\n- Also in 1.9.1: past nights' house fees (History tab), iCloud Drive backup, + TIME as another champagne sale, FIX SONG and AUTO NEXT, NOT READY (time in and ready), joining at the next rotation, Combo payment, time in on house fees, PAID / UNPAID asks first.",
+  "version": "1.9.1-beta.7",
+  "notes": "1.9.1 beta 7:\n- iPad: + SPECIAL, + FEATURE and + AUDITION on the Rotation tab (with Features, specials and auditions on the Permissions grid), and the ones placed to Move, Edit or remove.\n- Screens stay awake while the rotation is running (START until the night is over): the DJ computer and its screen, the iPads (tap the screen once after START) and the dressing-room screen. After that they sleep as usual.\n- Also since beta 3: UNDO per person, SKIP ONE ROTATION, past nights' house fees, iCloud Drive backup.",
   "exe": "beta/StageRotation.exe",
-  "sha256": "606af9c134699fef0b9d56c30e83b84064d3cda8be0ee14ebf217a4f97f92223"
+  "sha256": "e4e87c2cddf8373692cdb0d2b23dd417ef65e363add8b9d9c9d39a8ab2685a81"
 }
