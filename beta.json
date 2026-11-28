@@ -1,6 +1,6 @@
 {
-  "version": "1.9.1-beta.3",
-  "notes": "1.9.1 beta 3:\n- + TIME on champagne is another sale: its own price, payment and split, its own line and Edit; the timer just runs longer.\n- DJ screen: FIX SONG under the set timer (Virtual DJ or the clock), and AUTO NEXT: ON / PAUSED to pause it for tonight.\n- NOT READY girls keep two times: Time in (came in) and Ready (went in; the late fee goes by it).\n- Also in 1.9.1: NOT READY, joining at the next rotation, Combo payment, time in on house fees, PAID / UNPAID asks first.",
+  "version": "1.9.1-beta.4",
+  "notes": "1.9.1 beta 4:\n- Running backup (Admin tab) can go to iCloud Drive as well as OneDrive or any folder: Use OneDrive / Use iCloud Drive.\n- Also in 1.9.1: + TIME as another champagne sale, FIX SONG and AUTO NEXT on the DJ screen, NOT READY (time in and ready), joining at the next rotation, Combo payment, time in on house fees, PAID / UNPAID asks first.",
   "exe": "beta/StageRotation.exe",
-  "sha256": "75283de86654465fad4d21882597205e17af00ff39a0552ab5c8949b9270b401"
+  "sha256": "c5ee8775a26e5ba7e877df936524f3be45c1421e9f3d915d50fda296d16a6de8"
 }
