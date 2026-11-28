@@ -1,6 +1,6 @@
 {
-  "version": "1.9.1-beta.5",
-  "notes": "1.9.1 beta 5:\n- UNDO is for your own change: it takes back the last change only if you made it (an Admin's UNDO takes back anyone's). Changes made at the DJ computer, the foot pedal and Virtual DJ belong to the DJ booth. If the last change is someone else's, UNDO is greyed out and says whose it is.\n- Past nights' house fees: DJ History tab > House fees (managers): Mark all PAID, mark one PAID, or delete one. A manager can also tap the orange OWES on a girl's history.\n- Also in 1.9.1: iCloud Drive backup, + TIME as another champagne sale, FIX SONG and AUTO NEXT, NOT READY (time in and ready), joining at the next rotation, Combo payment, time in on house fees, PAID / UNPAID asks first.",
+  "version": "1.9.1-beta.6",
+  "notes": "1.9.1 beta 6:\n- UNDO is per person: your UNDO shows only your own changes and takes back your latest one, even after others changed things (theirs stay). An Admin's UNDO shows a list to pick any change from.\n- SKIP ONE ROTATION on every Take off pop-up: she sits out her next turn and goes back on by herself in her same spot for the next rotation.\n- Fix: undoing a NEXT no longer puts in a girl who was waiting to join at the next rotation.\n- Also in 1.9.1: past nights' house fees (History tab), iCloud Drive backup, + TIME as another champagne sale, FIX SONG and AUTO NEXT, NOT READY (time in and ready), joining at the next rotation, Combo payment, time in on house fees, PAID / UNPAID asks first.",
   "exe": "beta/StageRotation.exe",
-  "sha256": "096a44e3b4752f0220c23214fe344aca0cfda1a661c5319e3f4cded1b8ea411c"
+  "sha256": "606af9c134699fef0b9d56c30e83b84064d3cda8be0ee14ebf217a4f97f92223"
 }
