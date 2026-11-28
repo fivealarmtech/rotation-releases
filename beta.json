@@ -1,6 +1,6 @@
 {
-  "version": "1.9.1-beta.7",
-  "notes": "1.9.1 beta 7:\n- iPad: + SPECIAL, + FEATURE and + AUDITION on the Rotation tab (with Features, specials and auditions on the Permissions grid), and the ones placed to Move, Edit or remove.\n- Screens stay awake while the rotation is running (START until the night is over): the DJ computer and its screen, the iPads (tap the screen once after START) and the dressing-room screen. After that they sleep as usual.\n- Also since beta 3: UNDO per person, SKIP ONE ROTATION, past nights' house fees, iCloud Drive backup.",
+  "version": "1.9.1-beta.8",
+  "notes": "1.9.1 beta 8:\n- Payout screen for collecting house fees: iPad House Fees tab, PAYOUT lists the unpaid girls; tap one for her house fee broken down and PAID. Turn it on in Admin > Settings > House fees; who gets it: Permissions > Payout screen.\n- Also since beta 3: specials and features from the iPad, screens stay awake while the rotation runs, UNDO per person, SKIP ONE ROTATION, past nights' house fees, iCloud Drive backup.",
   "exe": "beta/StageRotation.exe",
-  "sha256": "e4e87c2cddf8373692cdb0d2b23dd417ef65e363add8b9d9c9d39a8ab2685a81"
+  "sha256": "e308c76ccced742b8d1a75c69c81a01b6338cb7b272086fee016290da2511c17"
 }
